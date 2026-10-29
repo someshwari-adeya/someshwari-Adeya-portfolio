@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="Redux Toolkit logo">
-  <path d="M19 12c1.2-1.2 2.8-2 4.5-2 2.9 0 5.5 2 6.4 4.9" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
-  <path d="M25 18c2.7-.8 5 0 6.3 2 1.4 2 .8 4.5-1.5 6.5" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
-  <path d="M14 24c-1.5 1.3-3.3 1.9-5 1.7-1.7-.2-3.3-1.2-4.4-2.8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="23.5" cy="12" r="2" fill="#ffffff"/>
-  <circle cx="29.5" cy="26.5" r="2" fill="#ffffff"/>
-  <circle cx="9.5" cy="27" r="2" fill="#ffffff"/>
-  <rect x="16" y="15" width="8" height="8" rx="1.5" fill="none" stroke="#ffffff" stroke-width="2"/>
-</svg>

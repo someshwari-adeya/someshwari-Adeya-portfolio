@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="n8n logo">
-  <circle cx="10" cy="20" r="3" fill="#ffffff"/>
-  <circle cx="20" cy="12" r="3" fill="#ffffff"/>
-  <circle cx="20" cy="28" r="3" fill="#ffffff"/>
-  <circle cx="30" cy="20" r="3" fill="#ffffff"/>
-  <path d="M12.5 18l5-4M12.5 22l5 4M22.5 14l5 4M22.5 26l5-4" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
-</svg>
